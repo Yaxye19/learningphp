@@ -36,7 +36,7 @@ $second = new Book;
 $second ->title               = 'Jojos Bizzare Adventure';
 $second ->author              = 'Araki';
 $second ->publisher           = 'Shueisha';
-$second ->yearOfPublication   = '1995';
+$second ->yearOfPublication   = '1997';
 
 // echo $second->title              . PHP_EOL;
 // echo $second->author             . PHP_EOL;
